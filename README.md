@@ -1,4 +1,2 @@
-## Hi there 👋
-
-// TODO: complete my readme
+**Just a Web Developer**
 
